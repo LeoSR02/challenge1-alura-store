@@ -20,6 +20,9 @@ El análisis está contenido en un Notebook de Jupyter (AluraStoreLatam.ipynb), 
 [tienda_3 .csv](https://github.com/alura-es-cursos/challenge1-data-science-latam/blob/main/base-de-datos-challenge1-latam/tienda_3.csv)  
 [tienda_4 .csv](https://github.com/alura-es-cursos/challenge1-data-science-latam/blob/main/base-de-datos-challenge1-latam/tienda_4.csv)  
 
+# Gráficos realizados
+![Ingresos por Tienda](graficos/ingresos.png)  
+![Rentabilidad por Tienda](graficos/rentabilidad.png)  
 ## Dependencias
 El proyecto hace uso de las siguientes librerías de Python:
 

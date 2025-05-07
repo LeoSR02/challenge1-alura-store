@@ -22,6 +22,9 @@ El análisis está contenido en un Notebook de Jupyter (AluraStoreLatam.ipynb), 
 
 # Gráficos realizados
 ![Ingresos por Tienda](graficos/ingresos.png)  
+
+![Ingresos por Categoría](graficos/VentasCategoria.png) 
+
 ![Rentabilidad por Tienda](graficos/rentabilidad.png)  
 ## Dependencias
 El proyecto hace uso de las siguientes librerías de Python:
